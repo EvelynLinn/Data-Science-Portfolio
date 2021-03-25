@@ -8,3 +8,5 @@ hist.jpg
 output.jpg
 output.png
 sector_overview.jpg
+.DS_Store
+.ipynb_checkpoints/
