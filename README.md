@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-## Project 1. How to Use Online ESG Scores
+## Project 1. How to Use Online ESG Scores ([Blog](https://yifang-lin.medium.com/how-to-use-online-esg-scores-6620c645213))
 ### Installations
 ```
 import pandas as pd
