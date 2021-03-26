@@ -17,6 +17,10 @@ from ipywidgets import interact
 ```
 ### Motication
 I am interested in obtaining online ESG data in order to form a top-down overview of how different sectors and countries are performing. 
+1. How are total ESG scores constructed?
+2. Which sectors and industries are among the best and worst performers in terms of ESG risks?
+3. Can controversies scores be predicted using a linear regressional machine learning model based on ESG scores and sectors?
+4. Are there any geographical patterns of controversy scores among S&P 500 firms?
 ### Files Explained
 There are 4 files in Project 1. 
 1. Part-1-Gathering-ESG-data.ipynb is where the scraping of ESG data takes place. 
