@@ -1,0 +1,453 @@
+,Ticker,Sector,Industry,Headquarter,Total ESG Score,Environment,Social,Governance,Controversy Score,City,State,Country
+0,MMM,Industrials,Industrial Conglomerates,"St. Paul, Minnesota",35,12.8,14.0,8.4,3,St. Paul,Minnesota,US
+1,ABT,Health Care,Health Care Equipment,"North Chicago, Illinois",30,3.0,16.2,10.6,3,North Chicago,Illinois,US
+2,ABBV,Health Care,Pharmaceuticals,"North Chicago, Illinois",29,0.6,17.1,11.3,3,North Chicago,Illinois,US
+3,ACN,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",11,0.6,5.0,5.8,2,Dublin,Ireland,Ireland
+4,ATVI,Communication Services,Interactive Home Entertainment,"Santa Monica, California",17,0.2,10.7,6.2,2,Santa Monica,California,US
+5,ADBE,Information Technology,Application Software,"San Jose, California",11,0.5,5.7,4.7,1,San Jose,California,US
+6,AAP,Consumer Discretionary,Automotive Retail,"Raleigh, North Carolina",12,0.1,8.7,3.3,2,Raleigh,North Carolina,US
+7,AES,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",35,20.8,8.3,5.8,2,Arlington,Virginia,US
+8,AFL,Financials,Life & Health Insurance,"Columbus, Georgia",23,2.5,7.9,12.9,2,Columbus,Georgia,US
+9,A,Health Care,Health Care Equipment,"Santa Clara, California",17,0.9,9.4,6.3,2,Santa Clara,California,US
+10,APD,Materials,Industrial Gases,"Allentown, Pennsylvania",11,6.1,1.4,3.7,1,Allentown,Pennsylvania,US
+11,AKAM,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",21,2.0,11.8,7.5,1,Cambridge,Massachusetts,US
+12,ALB,Materials,Specialty Chemicals,"Charlotte, North Carolina",37,19.1,8.9,8.7,1,Charlotte,North Carolina,US
+13,ARE,Real Estate,Office REITs,"Pasadena, California",15,3.0,6.3,5.9,0,Pasadena,California,US
+14,ALXN,Health Care,Pharmaceuticals,"Boston, Massachusetts",19,0.1,12.0,6.8,2,Boston,Massachusetts,US
+15,ALLE,Industrials,Building Products,"Dublin, Ireland",22,11.1,4.2,6.6,0,Dublin,Ireland,Ireland
+16,LNT,Utilities,Electric Utilities,"Madison, Wisconsin",28,14.7,7.4,6.3,2,Madison,Wisconsin,US
+17,ALL,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",23,1.6,8.7,12.7,2,Northfield Township,Illinois,US
+18,GOOGL,Communication Services,Interactive Media & Services,"Mountain View, California",22,0.5,9.9,11.9,4,Mountain View,California,US
+19,MO,Consumer Staples,Tobacco,"Richmond, Virginia",25,5.8,13.0,6.5,3,Richmond,Virginia,US
+20,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",27,5.1,12.5,9.8,3,Seattle,Washington,US
+21,AEE,Utilities,Multi-Utilities,"St. Louis, Missouri",34,15.5,12.2,6.4,2,St. Louis,Missouri,US
+22,AAL,Industrials,Airlines,"Fort Worth, Texas",30,11.7,12.6,5.6,2,Fort Worth,Texas,US
+23,AEP,Utilities,Electric Utilities,"Columbus, Ohio",34,19.3,9.8,5.3,2,Columbus,Ohio,US
+24,AXP,Financials,Consumer Finance,"New York, New York",20,0.1,9.9,9.8,3,New York,New York,US
+25,AIG,Financials,Property & Casualty Insurance,"New York, New York",31,2.0,13.6,15.2,2,New York,New York,US
+26,AMT,Real Estate,Specialized REITs,"Boston, Massachusetts",12,3.7,3.8,5.0,0,Boston,Massachusetts,US
+27,AWK,Utilities,Water Utilities,"Camden, New Jersey",29,13.4,10.0,5.7,2,Camden,New Jersey,US
+28,AMP,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",26,2.3,10.7,12.8,2,Minneapolis,Minnesota,US
+29,ABC,Health Care,Health Care Distributors,"Chesterbrook, Pennsylvania",12,1.2,5.5,5.7,3,Chesterbrook,Pennsylvania,US
+30,AME,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",26,8.3,9.9,7.7,1,Berwyn,Pennsylvania,US
+31,AMGN,Health Care,Biotechnology,"Thousand Oaks, California",19,0.0,12.8,6.3,2,Thousand Oaks,California,US
+32,APH,Information Technology,Electronic Components,"Wallingford, Connecticut",24,10.0,6.0,7.7,2,Wallingford,Connecticut,US
+33,ADI,Information Technology,Semiconductors,"Norwood, Massachusetts",26,11.0,7.5,7.2,0,Norwood,Massachusetts,US
+34,ANSS,Information Technology,Application Software,"Canonsburg, Pennsylvania",15,1.1,9.0,4.8,0,Canonsburg,Pennsylvania,US
+35,ANTM,Health Care,Managed Health Care,"Indianapolis, Indiana",12,0.0,7.0,5.3,2,Indianapolis,Indiana,US
+36,AOS,Industrials,Building Products,"Milwaukee, Wisconsin",33,9.5,14.9,8.1,2,Milwaukee,Wisconsin,US
+37,APA,Energy,Oil & Gas Exploration & Production,"Houston, Texas",39,22.0,8.9,8.0,2,Houston,Texas,US
+38,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",17,0.1,7.7,8.9,3,Cupertino,California,US
+39,AMAT,Information Technology,Semiconductor Equipment,"Santa Clara, California",15,5.3,3.9,5.5,0,Santa Clara,California,US
+40,APTV,Consumer Discretionary,Auto Parts & Equipment,"Dublin, Ireland",13,3.7,4.6,5.2,1,Dublin,Ireland,Ireland
+41,ADM,Consumer Staples,Agricultural Products,"Chicago, Illinois",34,15.9,13.5,4.8,3,Chicago,Illinois,US
+42,ANET,Information Technology,Communications Equipment,"Santa Clara, California",18,0.4,9.1,8.2,2,Santa Clara,California,US
+43,AJG,Financials,Insurance Brokers,"Rolling Meadows, Illinois",25,0.1,11.7,12.7,2,Rolling Meadows,Illinois,US
+44,AIZ,Financials,Multi-line Insurance,"New York, New York",25,1.3,10.6,13.3,3,New York,New York,US
+45,T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",19,1.9,10.9,6.3,3,Dallas,Texas,US
+46,ATO,Utilities,Gas Utilities,"Dallas, Texas",32,12.8,12.1,6.8,2,Dallas,Texas,US
+47,ADSK,Information Technology,Application Software,"San Rafael, California",15,1.4,9.2,4.8,0,San Rafael,California,US
+48,ADP,Information Technology,Data Processing & Outsourced Services,"Roseland, New Jersey",13,0.1,7.1,5.4,1,Roseland,New Jersey,US
+49,AZO,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",12,0.1,8.1,3.8,2,Memphis,Tennessee,US
+50,AVB,Real Estate,Residential REITs,"Arlington, Virginia[3]",12,3.4,2.9,5.3,0,Arlington,Virginia[3],US
+51,AVY,Materials,Paper Packaging,"Glendale, California",18,12.3,1.9,4.1,1,Glendale,California,US
+52,BLL,Materials,Metal & Glass Containers,"Broomfield, Colorado",14,8.4,1.3,4.1,1,Broomfield,Colorado,US
+53,BAC,Financials,Diversified Banks,"Charlotte, North Carolina",26,1.6,13.9,10.7,3,Charlotte,North Carolina,US
+54,BK,Financials,Asset Management & Custody Banks,"New York, New York",23,2.0,9.8,10.9,3,New York,New York,US
+55,BAX,Health Care,Health Care Equipment,"Deerfield, Illinois",28,2.5,16.2,9.3,3,Deerfield,Illinois,US
+56,BDX,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",29,3.4,15.7,9.5,3,Franklin Lakes,New Jersey,US
+57,BBY,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",12,2.1,5.2,4.7,2,Richfield,Minnesota,US
+58,BIO,Health Care,Life Sciences Tools & Services,"Hercules, California",21,1.5,12.3,7.3,2,Hercules,California,US
+59,BIIB,Health Care,Biotechnology,"Cambridge, Massachusetts",22,0.0,15.0,7.5,2,Cambridge,Massachusetts,US
+60,BLK,Financials,Asset Management & Custody Banks,"New York, New York",23,1.5,10.4,10.9,2,New York,New York,US
+61,BA,Industrials,Aerospace & Defense,"Chicago, Illinois",36,7.8,19.7,8.8,4,Chicago,Illinois,US
+62,BKNG,Consumer Discretionary,Internet & Direct Marketing Retail,"Norwalk, Connecticut",20,3.9,9.7,6.3,2,Norwalk,Connecticut,US
+63,BWA,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",24,5.7,10.8,7.3,2,Auburn Hills,Michigan,US
+64,BXP,Real Estate,Office REITs,"Boston, Massachusetts",14,3.8,5.1,5.0,1,Boston,Massachusetts,US
+65,BSX,Health Care,Health Care Equipment,"Marlborough, Massachusetts[4]",31,3.0,16.4,11.4,3,Marlborough,Massachusetts[4],US
+66,BMY,Health Care,Health Care Distributors,"New York, New York",23,0.0,15.2,7.4,2,New York,New York,US
+67,AVGO,Information Technology,Semiconductors,"San Jose, California",26,9.0,8.7,7.9,3,San Jose,California,US
+68,BR,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",15,0.0,8.4,6.6,2,Lake Success,New York,US
+69,CHRW,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",26,6.4,13.1,6.3,1,Eden Prairie,Minnesota,US
+70,COG,Energy,Oil & Gas Exploration & Production,"Houston, Texas",50,24.6,15.6,9.8,2,Houston,Texas,US
+71,CDNS,Information Technology,Application Software,"San Jose, California",17,1.2,10.5,5.4,0,San Jose,California,US
+72,CPB,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",22,9.3,7.8,4.9,2,Camden,New Jersey,US
+73,COF,Financials,Consumer Finance,"Tysons Corner, Virginia",23,0.1,13.5,9.6,4,Tysons Corner,Virginia,US
+74,CAH,Health Care,Health Care Distributors,"Dublin, Ohio",13,2.8,5.4,4.4,3,Dublin,Ohio,US
+75,KMX,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",13,0.1,8.9,4.1,2,Richmond,Virginia,US
+76,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",21,8.4,9.2,3.9,3,Miami,Florida,US
+77,CAT,Industrials,Construction Machinery & Heavy Trucks,"Deerfield, Illinois",39,10.7,19.6,8.9,4,Deerfield,Illinois,US
+78,CBOE,Financials,Financial Exchanges & Data,"Chicago, Illinois",19,2.6,7.2,9.0,2,Chicago,Illinois,US
+79,CBRE,Real Estate,Real Estate Services,"Dallas, Texas",9,2.3,2.8,3.6,1,Dallas,Texas,US
+80,CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",11,3.6,3.5,3.8,0,Lincolnshire,Illinois,US
+81,CE,Materials,Specialty Chemicals,"Irving, Texas",30,14.9,7.7,7.3,2,Irving,Texas,US
+82,CNC,Health Care,Managed Health Care,"St. Louis, Missouri",23,0.1,15.9,6.7,2,St. Louis,Missouri,US
+83,CNP,Utilities,Multi-Utilities,"Houston, Texas",36,17.9,11.9,5.9,2,Houston,Texas,US
+84,CERN,Health Care,Health Care Technology,"North Kansas City, Missouri",20,0.1,12.9,6.8,2,North Kansas City,Missouri,US
+85,CF,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",33,18.6,9.2,5.1,2,Deerfield,Illinois,US
+86,SCHW,Financials,Investment Banking & Brokerage,"Westlake, Texas",25,2.1,10.6,12.6,2,Westlake,Texas,US
+87,CHTR,Communication Services,Cable & Satellite,"Stamford, Connecticut",20,1.9,10.3,8.2,2,Stamford,Connecticut,US
+88,CVX,Energy,Integrated Oil & Gas,"San Ramon, California",40,18.3,12.0,10.0,3,San Ramon,California,US
+89,CMG,Consumer Discretionary,Restaurants,"Newport Beach, California",24,3.8,14.8,5.8,3,Newport Beach,California,US
+90,CB,Financials,Property & Casualty Insurance,"Zurich, Switzerland",24,1.6,11.2,10.7,2,Zurich,Switzerland,Switzerland
+91,CHD,Consumer Staples,Household Products,"Ewing, New Jersey",23,7.3,8.3,7.2,2,Ewing,New Jersey,US
+92,CI,Health Care,Managed Health Care,"Bloomfield, Connecticut",12,0.0,6.0,5.7,2,Bloomfield,Connecticut,US
+93,CINF,Financials,Property & Casualty Insurance,"Fairfield, Ohio",26,1.7,9.4,15.0,1,Fairfield,Ohio,US
+94,CTAS,Industrials,Diversified Support Services,"Mason, Ohio",25,5.4,12.4,7.6,2,Mason,Ohio,US
+95,CSCO,Information Technology,Communications Equipment,"San Jose, California",13,0.5,5.9,6.1,2,San Jose,California,US
+96,C,Financials,Diversified Banks,"New York, New York",26,1.5,11.4,13.4,4,New York,New York,US
+97,CFG,Financials,Regional Banks,"Providence, Rhode Island",26,1.9,13.1,11.4,2,Providence,Rhode Island,US
+98,CTXS,Information Technology,Application Software,"Fort Lauderdale, Florida",18,1.2,11.3,5.7,2,Fort Lauderdale,Florida,US
+99,CLX,Consumer Staples,Household Products,"Oakland, California",23,8.8,7.9,6.1,2,Oakland,California,US
+100,CME,Financials,Financial Exchanges & Data,"Chicago, Illinois",15,1.9,6.6,6.0,1,Chicago,Illinois,US
+101,CMS,Utilities,Multi-Utilities,"Jackson, Michigan",28,13.4,9.1,5.4,2,Jackson,Michigan,US
+102,KO,Consumer Staples,Soft Drinks,"Atlanta, Georgia",25,9.2,10.8,5.1,3,Atlanta,Georgia,US
+103,CTSH,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",22,1.0,12.8,7.8,2,Teaneck,New Jersey,US
+104,CL,Consumer Staples,Household Products,"New York, New York",22,6.8,9.4,6.0,3,New York,New York,US
+105,CMCSA,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",19,1.2,9.3,8.9,2,Philadelphia,Pennsylvania,US
+106,CMA,Financials,Diversified Banks,"Dallas, Texas",27,1.7,13.1,12.1,2,Dallas,Texas,US
+107,CAG,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",32,10.5,16.3,5.1,2,Chicago,Illinois,US
+108,COP,Energy,Oil & Gas Exploration & Production,"Houston, Texas",35,18.6,9.8,7.0,2,Houston,Texas,US
+109,ED,Utilities,Electric Utilities,"New York, New York",25,5.0,13.5,6.6,3,New York,New York,US
+110,STZ,Consumer Staples,Distillers & Vintners,"Victor, New York",23,9.0,9.3,5.0,2,Victor,New York,US
+111,COO,Health Care,Health Care Supplies,"San Ramon, California",21,3.1,10.7,7.0,2,San Ramon,California,US
+112,CPRT,Industrials,Diversified Support Services,"Dallas, Texas",23,4.1,11.8,7.1,1,Dallas,Texas,US
+113,GLW,Information Technology,Electronic Components,"Corning, New York",20,7.9,5.2,6.9,2,Corning,New York,US
+114,COST,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",22,5.3,10.9,6.1,3,Issaquah,Washington,US
+115,CCI,Real Estate,Specialized REITs,"Houston, Texas",18,8.9,4.2,5.3,0,Houston,Texas,US
+116,CSX,Industrials,Railroads,"Jacksonville, Florida",18,5.3,9.4,3.6,3,Jacksonville,Florida,US
+117,CMI,Industrials,Industrial Machinery,"Columbus, Indiana",18,3.7,8.2,5.9,2,Columbus,Indiana,US
+118,CVS,Health Care,Health Care Services,"Woonsocket, Rhode Island",21,3.1,13.1,4.8,3,Woonsocket,Rhode Island,US
+119,DHI,Consumer Discretionary,Homebuilding,"Arlington, Texas",22,8.0,7.4,6.1,2,Arlington,Texas,US
+120,DHR,Health Care,Health Care Equipment,"Washington, D.C.",33,4.7,18.1,9.9,2,Washington,D.C.,US
+121,DRI,Consumer Discretionary,Restaurants,"Orlando, Florida",22,5.9,11.9,4.4,2,Orlando,Florida,US
+122,DVA,Health Care,Health Care Facilities,"Denver, Colorado",21,0.1,12.5,8.8,2,Denver,Colorado,US
+123,DE,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",18,4.4,9.6,4.0,2,Moline,Illinois,US
+124,DAL,Industrials,Airlines,"Atlanta, Georgia",24,8.2,11.6,4.6,2,Atlanta,Georgia,US
+125,XRAY,Health Care,Health Care Supplies,"Charlotte, North Carolina",20,3.2,10.4,6.5,1,Charlotte,North Carolina,US
+126,DVN,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",34,17.7,8.7,7.5,2,Oklahoma City,Oklahoma,US
+127,DXCM,Health Care,Health Care Equipment,"San Diego, California",27,5.9,13.0,8.2,2,San Diego,California,US
+128,DLR,Real Estate,Specialized REITs,"Austin, Texas",14,3.4,5.4,5.4,1,Austin,Texas,US
+129,DFS,Financials,Consumer Finance,"Riverwoods, Illinois",24,0.1,13.6,9.8,1,Riverwoods,Illinois,US
+130,DISCA,Communication Services,Broadcasting,"New York, New York",18,0.2,9.1,9.1,1,New York,New York,US
+131,DISH,Communication Services,Cable & Satellite,"Meridian, Colorado",22,1.7,11.3,9.2,3,Meridian,Colorado,US
+132,DG,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",17,3.3,8.5,5.1,2,Goodlettsville,Tennessee,US
+133,DLTR,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",18,3.4,8.5,5.9,2,Chesapeake,Virginia,US
+134,D,Utilities,Electric Utilities,"Richmond, Virginia",29,14.0,9.0,6.2,2,Richmond,Virginia,US
+135,DPZ,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",27,5.4,14.8,6.6,2,Ann Arbor,Michigan,US
+136,DOV,Industrials,Industrial Machinery,"Downers Grove, Illinois",28,7.8,14.1,6.4,1,Downers Grove,Illinois,US
+137,DTE,Utilities,Multi-Utilities,"Detroit, Michigan",31,15.5,9.4,6.2,2,Detroit,Michigan,US
+138,DUK,Utilities,Electric Utilities,"Charlotte, North Carolina",33,15.6,11.6,5.8,3,Charlotte,North Carolina,US
+139,DRE,Real Estate,Industrial REITs,"Indianapolis, Indiana",13,4.6,3.9,4.6,0,Indianapolis,Indiana,US
+140,DD,Materials,Specialty Chemicals,"Wilmington, Delaware",30,13.9,9.1,7.4,3,Wilmington,Delaware,US
+141,DXC,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",13,1.2,7.2,5.2,2,Tysons Corner,Virginia,US
+142,EMN,Materials,Diversified Chemicals,"Kingsport, Tennessee",24,11.4,5.3,7.1,2,Kingsport,Tennessee,US
+143,ETN,Industrials,Electrical Components & Equipment,"Dublin, Ireland",17,4.7,6.6,5.7,1,Dublin,Ireland,Ireland
+144,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail,"San Jose, California",21,1.6,11.8,8.0,2,San Jose,California,US
+145,ECL,Materials,Specialty Chemicals,"St. Paul, Minnesota",26,10.6,8.6,6.6,2,St. Paul,Minnesota,US
+146,EIX,Utilities,Electric Utilities,"Rosemead, California",29,11.2,11.9,5.8,3,Rosemead,California,US
+147,EW,Health Care,Health Care Equipment,"Irvine, California",19,2.6,9.0,7.4,2,Irvine,California,US
+148,EA,Communication Services,Interactive Home Entertainment,"Redwood City, California",13,0.1,7.3,5.3,2,Redwood City,California,US
+149,EMR,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",30,9.2,14.3,6.9,2,Ferguson,Missouri,US
+150,ETR,Utilities,Electric Utilities,"New Orleans, Louisiana",33,18.7,8.5,6.3,2,New Orleans,Louisiana,US
+151,EOG,Energy,Oil & Gas Exploration & Production,"Houston, Texas",39,19.7,11.1,8.2,1,Houston,Texas,US
+152,EFX,Industrials,Research & Consulting Services,"Atlanta, Georgia",25,0.1,17.3,7.1,4,Atlanta,Georgia,US
+153,EQIX,Real Estate,Specialized REITs,"Redwood City, California",16,5.4,5.3,5.5,1,Redwood City,California,US
+154,EQR,Real Estate,Residential REITs,"Chicago, Illinois",14,4.8,4.3,4.8,1,Chicago,Illinois,US
+155,ESS,Real Estate,Residential REITs,"San Mateo, California",16,4.4,5.2,6.4,1,San Mateo,California,US
+156,EL,Consumer Staples,Personal Products,"New York, New York",24,6.9,9.3,8.1,2,New York,New York,US
+157,ES,Utilities,Multi-Utilities,"Hartford, Connecticut",23,6.4,10.3,6.3,2,Hartford,Connecticut,US
+158,RE,Financials,Reinsurance,"Hamilton, Bermuda",18,1.0,7.0,10.2,1,Hamilton,Bermuda,US
+159,EXC,Utilities,Multi-Utilities,"Chicago, Illinois",24,8.8,8.9,6.5,3,Chicago,Illinois,US
+160,EXPE,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",24,4.1,11.1,8.4,2,Seattle,Washington,US
+161,EXPD,Industrials,Air Freight & Logistics,"Seattle, Washington",18,4.1,9.2,4.7,0,Seattle,Washington,US
+162,EXR,Real Estate,Specialized REITs,"Salt Lake City, Utah",14,4.0,4.1,5.8,1,Salt Lake City,Utah,US
+163,XOM,Energy,Integrated Oil & Gas,"Irving, Texas",35,16.3,10.6,8.2,2,Irving,Texas,US
+164,FFIV,Information Technology,Communications Equipment,"Seattle, Washington",18,1.2,11.5,5.3,0,Seattle,Washington,US
+165,FB,Communication Services,Interactive Media & Services,"Menlo Park, California",32,1.4,17.9,12.3,4,Menlo Park,California,US
+166,FAST,Industrials,Building Products,"Winona, Minnesota",25,9.0,9.0,8.0,2,Winona,Minnesota,US
+167,FRT,Real Estate,Retail REITs,"Rockville, Maryland",13,2.0,5.0,6.0,1,Rockville,Maryland,US
+168,FDX,Industrials,Air Freight & Logistics,"Memphis, Tennessee",21,5.0,10.0,6.0,3,Memphis,Tennessee,US
+169,FIS,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",19,0.0,12.0,7.0,1,Jacksonville,Florida,US
+170,FITB,Financials,Regional Banks,"Cincinnati, Ohio",26,2.0,13.0,10.0,2,Cincinnati,Ohio,US
+171,FE,Utilities,Electric Utilities,"Akron, Ohio",35,17.0,10.0,7.0,3,Akron,Ohio,US
+172,FRC,Financials,Regional Banks,"San Francisco, California",25,2.0,11.0,12.0,1,San Francisco,California,US
+173,FISV,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",20,0.0,12.0,7.0,2,Brookfield,Wisconsin,US
+174,FLT,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",19,0.0,11.0,7.0,2,Norcross,Georgia,US
+175,FMC,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",39,18.0,14.0,7.0,2,Philadelphia,Pennsylvania,US
+176,F,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",31,10.0,12.0,10.0,3,Dearborn,Michigan,US
+177,FTNT,Information Technology,Systems Software,"Sunnyvale, California",21,1.0,14.0,6.0,2,Sunnyvale,California,US
+178,FTV,Industrials,Industrial Machinery,"Everett, Washington",35,15.0,14.0,6.0,2,Everett,Washington,US
+179,FBHS,Industrials,Building Products,"Deerfield, Illinois",25,14.0,4.0,7.0,0,Deerfield,Illinois,US
+180,BEN,Financials,Asset Management & Custody Banks,"San Mateo, California",20,1.0,10.0,8.0,2,San Mateo,California,US
+181,FCX,Materials,Copper,"Phoenix, Arizona",34,17.0,12.0,5.0,4,Phoenix,Arizona,US
+182,GPS,Consumer Discretionary,Apparel Retail,"San Francisco, California",13,1.0,7.0,6.0,3,San Francisco,California,US
+183,GRMN,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",20,6.0,9.0,5.0,2,Schaffhausen,Switzerland,Switzerland
+184,IT,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",24,0.0,17.0,6.0,1,Stamford,Connecticut,US
+185,GD,Industrials,Aerospace & Defense,"Falls Church, Virginia",38,10.0,20.0,8.0,3,Falls Church,Virginia,US
+186,GE,Industrials,Industrial Conglomerates,"Boston, Massachusetts",43,15.0,16.0,11.0,3,Boston,Massachusetts,US
+187,GIS,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",21,8.0,9.0,4.0,2,Golden Valley,Minnesota,US
+188,GM,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",31,10.0,13.0,8.0,4,Detroit,Michigan,US
+189,GPC,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",13,4.0,5.0,4.0,2,Atlanta,Georgia,US
+190,GILD,Health Care,Biotechnology,"Foster City, California",23,0.0,15.0,8.0,2,Foster City,California,US
+191,GL,Financials,Life & Health Insurance,"McKinney, Texas",23,2.0,9.0,12.0,1,McKinney,Texas,US
+192,GPN,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",19,0.0,11.0,7.0,2,Atlanta,Georgia,US
+193,GS,Financials,Investment Banking & Brokerage,"New York, New York",28,1.0,14.0,13.0,3,New York,New York,US
+194,GWW,Industrials,Industrial Machinery,"Lake Forest, Illinois",15,3.0,6.0,6.0,1,Lake Forest,Illinois,US
+195,HAL,Energy,Oil & Gas Equipment & Services,"Houston, Texas",26,10.0,9.0,8.0,2,Houston,Texas,US
+196,HBI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Winston-Salem, North Carolina",15,1.0,7.0,6.0,2,Winston-Salem,North Carolina,US
+197,HIG,Financials,Property & Casualty Insurance,"Hartford, Connecticut",19,2.0,7.0,10.0,2,Hartford,Connecticut,US
+198,HAS,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",12,0.0,6.0,6.0,2,Pawtucket,Rhode Island,US
+199,HCA,Health Care,Health Care Facilities,"Nashville, Tennessee",27,3.0,16.0,7.0,2,Nashville,Tennessee,US
+200,PEAK,Real Estate,Health Care REITs,"Long Beach, California",11,3.0,3.0,4.0,2,Long Beach,California,US
+201,HSIC,Health Care,Health Care Distributors,"Melville, New York",15,4.0,6.0,6.0,2,Melville,New York,US
+202,HSY,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",25,10.0,10.0,5.0,3,Hershey,Pennsylvania,US
+203,HES,Energy,Integrated Oil & Gas,"New York, New York",29,16.0,6.0,7.0,2,New York,New York,US
+204,HPE,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",17,1.0,10.0,7.0,2,Houston,Texas,US
+205,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",20,8.0,8.0,4.0,2,Tysons Corner,Virginia,US
+206,HFC,Energy,Oil & Gas Refining & Marketing,"Dallas, Texas",34,21.0,8.0,5.0,1,Dallas,Texas,US
+207,HOLX,Health Care,Health Care Equipment,"Marlborough, Massachusetts",30,4.0,14.0,12.0,2,Marlborough,Massachusetts,US
+208,HD,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",12,3.0,5.0,4.0,2,Atlanta,Georgia,US
+209,HON,Industrials,Industrial Conglomerates,"Morristown, New Jersey",31,10.0,12.0,9.0,3,Morristown,New Jersey,US
+210,HRL,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",25,10.0,10.0,5.0,3,Austin,Minnesota,US
+211,HST,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",14,4.0,6.0,5.0,0,Bethesda,Maryland,US
+212,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",11,0.0,5.0,6.0,2,Palo Alto,California,US
+213,HUM,Health Care,Managed Health Care,"Louisville, Kentucky",23,0.0,18.0,6.0,2,Louisville,Kentucky,US
+214,HBAN,Financials,Regional Banks,"Columbus, Ohio",21,2.0,11.0,8.0,2,Columbus,Ohio,US
+215,IEX,Industrials,Industrial Machinery,"Lake Forest, Illinois",33,10.0,16.0,7.0,1,Lake Forest,Illinois,US
+216,IDXX,Health Care,Health Care Equipment,"Westbrook, Maine",28,5.0,10.0,12.0,0,Westbrook,Maine,US
+217,INFO,Industrials,Research & Consulting Services,"London, United Kingdom",24,0.0,16.0,8.0,1,London,United Kingdom,UK
+218,ITW,Industrials,Industrial Machinery,"Glenview, Illinois",19,4.0,9.0,6.0,2,Glenview,Illinois,US
+219,ILMN,Health Care,Life Sciences Tools & Services,"San Diego, California",11,1.0,4.0,6.0,1,San Diego,California,US
+220,INCY,Health Care,Biotechnology,"Wilmington, Delaware",26,0.0,18.0,8.0,1,Wilmington,Delaware,US
+221,INTC,Information Technology,Semiconductors,"Santa Clara, California",16,4.0,6.0,6.0,3,Santa Clara,California,US
+222,ICE,Financials,Financial Exchanges & Data,"Atlanta, Georgia",16,2.0,7.0,7.0,3,Atlanta,Georgia,US
+223,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",18,0.0,10.0,7.0,2,Armonk,New York,US
+224,IP,Materials,Paper Packaging,"Memphis, Tennessee",25,16.0,4.0,5.0,3,Memphis,Tennessee,US
+225,IPG,Communication Services,Advertising,"New York, New York",16,0.0,10.0,6.0,2,New York,New York,US
+226,IFF,Materials,Specialty Chemicals,"New York, New York",24,11.0,6.0,8.0,2,New York,New York,US
+227,INTU,Information Technology,Application Software,"Mountain View, California",17,1.0,10.0,6.0,2,Mountain View,California,US
+228,ISRG,Health Care,Health Care Equipment,"Sunnyvale, California",30,5.0,14.0,11.0,2,Sunnyvale,California,US
+229,IVZ,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",25,2.0,13.0,10.0,1,Atlanta,Georgia,US
+230,IPGP,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",13,3.0,4.0,6.0,0,Oxford,Massachusetts,US
+231,IQV,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",21,2.0,13.0,7.0,1,Durham,North Carolina,US
+232,IRM,Real Estate,Specialized REITs,"Boston, Massachusetts",15,5.0,4.0,5.0,2,Boston,Massachusetts,US
+233,JKHY,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",16,1.0,10.0,5.0,0,Monett,Missouri,US
+234,J,Industrials,Construction & Engineering,"Dallas, Texas",26,4.0,14.0,8.0,3,Dallas,Texas,US
+235,JBHT,Industrials,Trucking,"Lowell, Arkansas",15,4.0,6.0,5.0,1,Lowell,Arkansas,US
+236,SJM,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",27,11.0,10.0,6.0,2,Orrville,Ohio,US
+237,JNJ,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",30,1.0,20.0,10.0,4,New Brunswick,New Jersey,US
+238,JCI,Industrials,Building Products,"Cork, Ireland",18,9.0,3.0,6.0,3,Cork,Ireland,Ireland
+239,JPM,Financials,Diversified Banks,"New York, New York",28,1.0,16.0,11.0,3,New York,New York,US
+240,JNPR,Information Technology,Communications Equipment,"Sunnyvale, California",16,0.0,9.0,6.0,2,Sunnyvale,California,US
+241,KSU,Industrials,Railroads,"Kansas City, Missouri",23,9.0,10.0,4.0,2,Kansas City,Missouri,US
+242,K,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",27,7.0,15.0,5.0,2,Battle Creek,Michigan,US
+243,KEY,Financials,Regional Banks,"Cleveland, Ohio",24,2.0,11.0,11.0,1,Cleveland,Ohio,US
+244,KEYS,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",10,2.0,2.0,5.0,1,Santa Rosa,California,US
+245,KMB,Consumer Staples,Household Products,"Irving, Texas",22,8.0,7.0,7.0,2,Irving,Texas,US
+246,KIM,Real Estate,Retail REITs,"New Hyde Park, New York",14,4.0,4.0,5.0,0,New Hyde Park,New York,US
+247,KMI,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",18,9.0,6.0,4.0,2,Houston,Texas,US
+248,KLAC,Information Technology,Semiconductor Equipment,"Milpitas, California",20,7.0,7.0,6.0,0,Milpitas,California,US
+249,KHC,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",34,13.0,14.0,7.0,3,Chicago,"Illinois; Pittsburgh, Pennsylvania",US
+250,KR,Consumer Staples,Food Retail,"Cincinnati, Ohio",21,6.0,9.0,6.0,3,Cincinnati,Ohio,US
+251,LB,Consumer Discretionary,Apparel Retail,"Columbus, Ohio",16,2.0,8.0,6.0,2,Columbus,Ohio,US
+252,LH,Health Care,Health Care Services,"Burlington, North Carolina",15,1.0,8.0,7.0,2,Burlington,North Carolina,US
+253,LRCX,Information Technology,Semiconductor Equipment,"Fremont, California",15,5.0,5.0,5.0,0,Fremont,California,US
+254,LVS,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",19,2.0,8.0,9.0,2,Las Vegas,Nevada,US
+255,LEG,Consumer Discretionary,Home Furnishings,"Carthage, Missouri",49,20.0,17.0,11.0,2,Carthage,Missouri,US
+256,LDOS,Industrials,Diversified Support Services,"Reston, Virginia",14,1.0,7.0,6.0,1,Reston,Virginia,US
+257,LEN,Consumer Discretionary,Homebuilding,"Miami, Florida",23,8.0,9.0,5.0,2,Miami,Florida,US
+258,LLY,Health Care,Pharmaceuticals,"Indianapolis, Indiana",31,2.0,18.0,10.0,3,Indianapolis,Indiana,US
+259,LNC,Financials,Multi-line Insurance,"Radnor, Pennsylvania",22,2.0,8.0,11.0,2,Radnor,Pennsylvania,US
+260,LKQ,Consumer Discretionary,Distributors,"Chicago, Illinois",14,5.0,5.0,4.0,0,Chicago,Illinois,US
+261,LMT,Industrials,Aerospace & Defense,"Bethesda, Maryland",29,5.0,16.0,8.0,3,Bethesda,Maryland,US
+262,L,Financials,Multi-line Insurance,"New York, New York",15,1.0,3.0,11.0,1,New York,New York,US
+263,LOW,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",13,4.0,5.0,3.0,2,Mooresville,North Carolina,US
+264,LUMN,Communication Services,Alternative Carriers,"Monroe, Louisiana",26,5.0,13.0,8.0,2,Monroe,Louisiana,US
+265,LYB,Materials,Specialty Chemicals,"Rotterdam, Netherlands",26,16.0,3.0,7.0,2,Rotterdam,Netherlands,Netherlands
+266,MTB,Financials,Regional Banks,"Buffalo, New York",27,2.0,13.0,12.0,2,Buffalo,New York,US
+267,MRO,Energy,Oil & Gas Exploration & Production,"Houston, Texas",42,23.0,10.0,9.0,2,Houston,Texas,US
+268,MPC,Energy,Oil & Gas Refining & Marketing,"Findlay, Ohio",28,16.0,7.0,5.0,3,Findlay,Ohio,US
+269,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",25,10.0,11.0,4.0,3,Bethesda,Maryland,US
+270,MMC,Financials,Insurance Brokers,"New York, New York",19,0.0,8.0,11.0,2,New York,New York,US
+271,MLM,Materials,Construction Materials,"Raleigh, North Carolina",31,18.0,5.0,9.0,2,Raleigh,North Carolina,US
+272,MAS,Industrials,Building Products,"Livonia, Michigan",20,11.0,3.0,6.0,1,Livonia,Michigan,US
+273,MA,Information Technology,Data Processing & Outsourced Services,"Harrison, New York",16,0.0,8.0,9.0,4,Harrison,New York,US
+274,MKC,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",28,9.0,14.0,5.0,2,Hunt Valley,Maryland,US
+275,MXIM,Information Technology,Semiconductors,"San Jose, California",23,8.0,8.0,6.0,0,San Jose,California,US
+276,MCD,Consumer Discretionary,Restaurants,"Chicago, Illinois",24,4.0,15.0,6.0,3,Chicago,Illinois,US
+277,MCK,Health Care,Health Care Distributors,"Irving, Texas",16,2.0,9.0,5.0,4,Irving,Texas,US
+278,MDT,Health Care,Health Care Equipment,"Dublin, Ireland",24,3.0,14.0,8.0,3,Dublin,Ireland,Ireland
+279,MRK,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",23,1.0,11.0,11.0,3,Kenilworth,New Jersey,US
+280,MET,Financials,Life & Health Insurance,"New York, New York",19,1.0,8.0,9.0,2,New York,New York,US
+281,MTD,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",11,1.0,5.0,6.0,1,Columbus,Ohio,US
+282,MGM,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",27,2.0,13.0,12.0,2,Paradise,Nevada,US
+283,MCHP,Information Technology,Semiconductors,"Chandler, Arizona",34,16.0,9.0,9.0,1,Chandler,Arizona,US
+284,MU,Information Technology,Semiconductors,"Boise, Idaho",18,7.0,4.0,6.0,2,Boise,Idaho,US
+285,MSFT,Information Technology,Systems Software,"Redmond, Washington",15,0.0,9.0,5.0,3,Redmond,Washington,US
+286,MAA,Real Estate,Residential REITs,"Memphis, Tennessee",19,6.0,7.0,6.0,1,Memphis,Tennessee,US
+287,MHK,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",14,5.0,5.0,4.0,2,Calhoun,Georgia,US
+288,TAP,Consumer Staples,Brewers,"Denver, Colorado",19,6.0,7.0,6.0,2,Denver,Colorado,US
+289,MDLZ,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",24,8.0,11.0,5.0,3,Chicago,Illinois,US
+290,MNST,Consumer Staples,Soft Drinks,"Corona, California",29,13.0,11.0,5.0,2,Corona,California,US
+291,MCO,Financials,Financial Exchanges & Data,"New York, New York",12,0.0,6.0,6.0,2,New York,New York,US
+292,MS,Financials,Investment Banking & Brokerage,"New York, New York",23,1.0,12.0,9.0,3,New York,New York,US
+293,MOS,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",35,15.0,12.0,8.0,2,Tampa,Florida,US
+294,MSI,Information Technology,Communications Equipment,"Chicago, Illinois",14,2.0,7.0,5.0,3,Chicago,Illinois,US
+295,MSCI,Financials,Financial Exchanges & Data,"New York, New York",23,0.0,17.0,6.0,1,New York,New York,US
+296,NDAQ,Financials,Financial Exchanges & Data,"New York, New York",15,2.0,7.0,7.0,2,New York,New York,US
+297,NTAP,Information Technology,"Technology Hardware, Storage & Peripherals","Sunnyvale, California",16,3.0,8.0,6.0,0,Sunnyvale,California,US
+298,NFLX,Communication Services,Movies & Entertainment,"Los Gatos, California",17,0.0,7.0,10.0,2,Los Gatos,California,US
+299,NWL,Consumer Discretionary,Housewares & Specialties,"Atlanta, Georgia",16,7.0,5.0,4.0,2,Atlanta,Georgia,US
+300,NEM,Materials,Gold,"Denver, Colorado",25,9.0,11.0,5.0,3,Denver,Colorado,US
+301,NWSA,Communication Services,Publishing,"New York, New York",14,0.0,6.0,9.0,2,New York,New York,US
+302,NEE,Utilities,Multi-Utilities,"Juno Beach, Florida",29,15.0,9.0,6.0,2,Juno Beach,Florida,US
+303,NLSN,Industrials,Research & Consulting Services,"New York, New York",23,0.0,17.0,6.0,1,New York,New York,US
+304,NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",15,2.0,6.0,7.0,3,Washington County,Oregon,US
+305,NI,Utilities,Multi-Utilities,"Merrillville, Indiana",32,15.0,11.0,7.0,3,Merrillville,Indiana,US
+306,NSC,Industrials,Railroads,"Norfolk, Virginia",24,8.0,12.0,3.0,2,Norfolk,Virginia,US
+307,NTRS,Financials,Asset Management & Custody Banks,"Chicago, Illinois",25,2.0,13.0,10.0,2,Chicago,Illinois,US
+308,NOC,Industrials,Aerospace & Defense,"West Falls Church, Virginia",31,9.0,17.0,5.0,3,West Falls Church,Virginia,US
+309,NLOK,Information Technology,Application Software,"Tempe, Arizona",17,1.0,10.0,5.0,2,Tempe,Arizona,US
+310,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",28,13.0,11.0,4.0,2,Miami,Florida,US
+311,NOV,Energy,Oil & Gas Equipment & Services,"Houston, Texas",35,13.0,13.0,9.0,1,Houston,Texas,US
+312,NRG,Utilities,Independent Power Producers & Energy Traders,"Princeton, New Jersey",32,17.0,9.0,6.0,2,Princeton,New Jersey,US
+313,NUE,Materials,Steel,"Charlotte, North Carolina",36,11.0,16.0,10.0,2,Charlotte,North Carolina,US
+314,NVDA,Information Technology,Semiconductors,"Santa Clara, California",13,2.0,4.0,7.0,2,Santa Clara,California,US
+315,NVR,Consumer Discretionary,Homebuilding,"Reston, Virginia",21,7.0,9.0,5.0,2,Reston,Virginia,US
+316,ORLY,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",12,0.0,8.0,4.0,1,Springfield,Missouri,US
+317,OXY,Energy,Oil & Gas Exploration & Production,"Houston, Texas",37,20.0,11.0,7.0,2,Houston,Texas,US
+318,OMC,Communication Services,Advertising,"New York, New York",18,0.0,10.0,8.0,2,New York,New York,US
+319,OKE,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",25,14.0,8.0,3.0,1,Tulsa,Oklahoma,US
+320,ORCL,Information Technology,Application Software,"Austin, Texas",18,0.0,11.0,7.0,3,Austin,Texas,US
+321,PCAR,Industrials,Construction Machinery & Heavy Trucks,"Bellevue, Washington",35,8.0,17.0,9.0,3,Bellevue,Washington,US
+322,PKG,Materials,Paper Packaging,"Lake Forest, Illinois",15,10.0,1.0,4.0,2,Lake Forest,Illinois,US
+323,PH,Industrials,Industrial Machinery,"Cleveland, Ohio",28,8.0,12.0,8.0,2,Cleveland,Ohio,US
+324,PAYX,Information Technology,Data Processing & Outsourced Services,"Penfield, New York",16,0.0,9.0,7.0,0,Penfield,New York,US
+325,PYPL,Information Technology,Data Processing & Outsourced Services,"San Jose, California",18,0.0,11.0,6.0,2,San Jose,California,US
+326,PNR,Industrials,Industrial Machinery,"Worsley, UK",33,10.0,16.0,8.0,1,Worsley,UK,UK
+327,PBCT,Financials,Thrifts & Mortgage Finance,"Bridgeport, Connecticut",24,2.0,12.0,10.0,2,Bridgeport,Connecticut,US
+328,PEP,Consumer Staples,Soft Drinks,"Purchase, New York",18,5.0,8.0,5.0,3,Purchase,New York,US
+329,PKI,Health Care,Health Care Equipment,"Waltham, Massachusetts",21,2.0,13.0,6.0,2,Waltham,Massachusetts,US
+330,PRGO,Health Care,Pharmaceuticals,"Dublin, Ireland",40,3.0,24.0,14.0,2,Dublin,Ireland,Ireland
+331,PFE,Health Care,Pharmaceuticals,"New York, New York",25,2.0,13.0,10.0,3,New York,New York,US
+332,PM,Consumer Staples,Tobacco,"New York, New York",24,4.0,11.0,9.0,3,New York,New York,US
+333,PSX,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",32,18.0,8.0,5.0,3,Houston,Texas,US
+334,PNW,Utilities,Multi-Utilities,"Phoenix, Arizona",28,12.0,10.0,6.0,2,Phoenix,Arizona,US
+335,PXD,Energy,Oil & Gas Exploration & Production,"Irving, Texas",35,17.0,9.0,9.0,1,Irving,Texas,US
+336,PNC,Financials,Regional Banks,"Pittsburgh, Pennsylvania",23,2.0,12.0,9.0,3,Pittsburgh,Pennsylvania,US
+337,PPG,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",27,10.0,9.0,8.0,2,Pittsburgh,Pennsylvania,US
+338,PPL,Utilities,Electric Utilities,"Allentown, Pennsylvania",35,19.0,11.0,5.0,2,Allentown,Pennsylvania,US
+339,PFG,Financials,Life & Health Insurance,"Des Moines, Iowa",21,2.0,8.0,11.0,1,Des Moines,Iowa,US
+340,PG,Consumer Staples,Personal Products,"Cincinnati, Ohio",25,8.0,9.0,7.0,3,Cincinnati,Ohio,US
+341,PGR,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",23,2.0,9.0,12.0,2,Mayfield Village,Ohio,US
+342,PLD,Real Estate,Industrial REITs,"San Francisco, California",10,2.0,3.0,4.0,1,San Francisco,California,US
+343,PRU,Financials,Life & Health Insurance,"Newark, New Jersey",20,1.0,11.0,9.0,2,Newark,New Jersey,US
+344,PEG,Utilities,Electric Utilities,"Newark, New Jersey",29,14.0,10.0,5.0,2,Newark,New Jersey,US
+345,PSA,Real Estate,Specialized REITs,"Glendale, California",15,5.0,4.0,5.0,0,Glendale,California,US
+346,PHM,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",22,8.0,9.0,5.0,2,Atlanta,Georgia,US
+347,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",13,1.0,7.0,5.0,3,New York,New York,US
+348,QRVO,Information Technology,Semiconductors,"Greensboro, North Carolina",32,16.0,9.0,7.0,0,Greensboro,North Carolina,US
+349,PWR,Industrials,Construction & Engineering,"Houston, Texas",36,9.0,17.0,11.0,1,Houston,Texas,US
+350,QCOM,Information Technology,Semiconductors,"San Diego, California",19,6.0,3.0,9.0,4,San Diego,California,US
+351,DGX,Health Care,Health Care Services,"Secaucus, New Jersey",19,0.0,10.0,9.0,3,Secaucus,New Jersey,US
+352,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",14,1.0,7.0,6.0,2,New York,New York,US
+353,RJF,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",28,2.0,12.0,14.0,2,St. Petersburg,Florida,US
+354,O,Real Estate,Retail REITs,"San Diego, California",17,5.0,6.0,5.0,0,San Diego,California,US
+355,REG,Real Estate,Retail REITs,"Jacksonville, Florida",12,4.0,4.0,5.0,0,Jacksonville,Florida,US
+356,REGN,Health Care,Biotechnology,"Tarrytown, New York",22,0.0,14.0,8.0,2,Tarrytown,New York,US
+357,RF,Financials,Regional Banks,"Birmingham, Alabama",19,2.0,10.0,8.0,2,Birmingham,Alabama,US
+358,RSG,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",21,11.0,6.0,4.0,3,Phoenix,Arizona,US
+359,RMD,Health Care,Health Care Equipment,"San Diego, California",27,4.0,12.0,11.0,1,San Diego,California,US
+360,RHI,Industrials,Human Resource & Employment Services,"Menlo Park, California",11,0.0,7.0,4.0,1,Menlo Park,California,US
+361,ROK,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",22,5.0,10.0,7.0,1,Milwaukee,Wisconsin,US
+362,ROL,Industrials,Environmental & Facilities Services,"Atlanta, Georgia",20,2.0,12.0,7.0,0,Atlanta,Georgia,US
+363,ROP,Industrials,Industrial Conglomerates,"Sarasota, Florida",21,1.0,14.0,6.0,0,Sarasota,Florida,US
+364,ROST,Consumer Discretionary,Apparel Retail,"Dublin, California",15,2.0,8.0,6.0,2,Dublin,California,US
+365,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",22,10.0,9.0,4.0,3,Miami,Florida,US
+366,SPGI,Financials,Financial Exchanges & Data,"New York, New York",13,2.0,6.0,5.0,3,New York,New York,US
+367,CRM,Information Technology,Application Software,"San Francisco, California",11,0.0,6.0,4.0,2,San Francisco,California,US
+368,SBAC,Real Estate,Specialized REITs,"Boca Raton, Florida",17,2.0,8.0,7.0,0,Boca Raton,Florida,US
+369,SLB,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",26,10.0,9.0,7.0,2,Curaçao,Kingdom of the Netherlands,Netherlands
+370,STX,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",10,2.0,4.0,5.0,1,Dublin,Ireland,Ireland
+371,SEE,Materials,Paper Packaging,"Charlotte, North Carolina",20,14.0,3.0,3.0,2,Charlotte,North Carolina,US
+372,SRE,Utilities,Multi-Utilities,"San Diego, California",30,14.0,10.0,6.0,3,San Diego,California,US
+373,NOW,Information Technology,Systems Software,"Santa Clara, California",17,1.0,9.0,6.0,0,Santa Clara,California,US
+374,SHW,Materials,Specialty Chemicals,"Cleveland, Ohio",30,13.0,11.0,6.0,2,Cleveland,Ohio,US
+375,SPG,Real Estate,Retail REITs,"Indianapolis, Indiana",15,6.0,5.0,5.0,1,Indianapolis,Indiana,US
+376,SWKS,Information Technology,Semiconductors,"Woburn, Massachusetts",33,15.0,10.0,8.0,0,Woburn,Massachusetts,US
+377,SNA,Industrials,Industrial Machinery,"Kenosha, Wisconsin",33,11.0,14.0,8.0,2,Kenosha,Wisconsin,US
+378,SO,Utilities,Electric Utilities,"Atlanta, Georgia",32,13.0,12.0,7.0,2,Atlanta,Georgia,US
+379,LUV,Industrials,Airlines,"Dallas, Texas",31,10.0,15.0,6.0,2,Dallas,Texas,US
+380,SWK,Industrials,Industrial Machinery,"New Britain, Connecticut",27,6.0,13.0,9.0,1,New Britain,Connecticut,US
+381,SBUX,Consumer Discretionary,Restaurants,"Seattle, Washington",21,3.0,14.0,5.0,3,Seattle,Washington,US
+382,STT,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",23,2.0,12.0,9.0,2,Boston,Massachusetts,US
+383,SYK,Health Care,Health Care Equipment,"Kalamazoo, Michigan",34,5.0,18.0,12.0,3,Kalamazoo,Michigan,US
+384,SIVB,Financials,Regional Banks,"Santa Clara, California",27,2.0,12.0,13.0,0,Santa Clara,California,US
+385,SYF,Financials,Consumer Finance,"Stamford, Connecticut",19,0.0,12.0,7.0,1,Stamford,Connecticut,US
+386,SNPS,Information Technology,Application Software,"Mountain View, California",15,1.0,9.0,4.0,0,Mountain View,California,US
+387,SYY,Consumer Staples,Food Distributors,"Houston, Texas",12,2.0,5.0,4.0,2,Houston,Texas,US
+388,TMUS,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",27,5.0,15.0,8.0,3,Bellevue,Washington,US
+389,TROW,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",20,2.0,12.0,6.0,2,Baltimore,Maryland,US
+390,TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York, New York",14,1.0,7.0,5.0,2,New York,New York,US
+391,TGT,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",15,2.0,8.0,5.0,3,Minneapolis,Minnesota,US
+392,TEL,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",16,7.0,5.0,5.0,1,Schaffhausen,Switzerland,Switzerland
+393,TFX,Health Care,Health Care Equipment,"Wayne, Pennsylvania",29,5.0,16.0,8.0,2,Wayne,Pennsylvania,US
+394,TER,Information Technology,Semiconductor Equipment,"North Reading, Massachusetts",19,7.0,6.0,6.0,0,North Reading,Massachusetts,US
+395,TSLA,Consumer Discretionary,Automobile Manufacturers,"Palo Alto, California",31,3.0,17.0,11.0,3,Palo Alto,California,US
+396,TXN,Information Technology,Semiconductors,"Dallas, Texas",18,6.0,5.0,6.0,2,Dallas,Texas,US
+397,TXT,Industrials,Aerospace & Defense,"Providence, Rhode Island",35,10.0,18.0,7.0,2,Providence,Rhode Island,US
+398,TMO,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",14,2.0,6.0,6.0,2,Waltham,Massachusetts,US
+399,TJX,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",15,2.0,7.0,5.0,2,Framingham,Massachusetts,US
+400,TSCO,Consumer Discretionary,Specialty Stores,"Brentwood, Tennessee",16,3.0,8.0,4.0,2,Brentwood,Tennessee,US
+401,TT,Industrials,Building Products,"Dublin, Ireland",15,7.0,2.0,5.0,2,Dublin,Ireland,Ireland
+402,TDG,Industrials,Aerospace & Defense,"Cleveland, Ohio",40,11.0,20.0,8.0,2,Cleveland,Ohio,US
+403,TRV,Financials,Property & Casualty Insurance,"New York, New York",22,2.0,9.0,11.0,2,New York,New York,US
+404,TRMB,Information Technology,Electronic Equipment & Instruments,"Sunnyvale, California",13,4.0,4.0,5.0,1,Sunnyvale,California,US
+405,TWTR,Communication Services,Interactive Media & Services,"San Francisco, California",25,3.0,13.0,9.0,3,San Francisco,California,US
+406,TSN,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",36,13.0,13.0,10.0,4,Springdale,Arkansas,US
+407,UDR,Real Estate,Residential REITs,"Highlands Ranch, Colorado",13,4.0,4.0,5.0,0,Highlands Ranch,Colorado,US
+408,ULTA,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",17,4.0,7.0,6.0,1,Bolingbrook,Illinois,US
+409,USB,Financials,Diversified Banks,"Minneapolis, Minnesota",27,1.0,13.0,12.0,3,Minneapolis,Minnesota,US
+410,UAA,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",16,2.0,8.0,6.0,2,Baltimore,Maryland,US
+411,UNP,Industrials,Railroads,"Omaha, Nebraska",22,8.0,11.0,4.0,2,Omaha,Nebraska,US
+412,UAL,Industrials,Airlines,"Chicago, Illinois",32,11.0,15.0,6.0,2,Chicago,Illinois,US
+413,UNH,Health Care,Managed Health Care,"Minnetonka, Minnesota",21,0.0,15.0,6.0,3,Minnetonka,Minnesota,US
+414,UPS,Industrials,Air Freight & Logistics,"Atlanta, Georgia",21,6.0,9.0,6.0,3,Atlanta,Georgia,US
+415,URI,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",17,5.0,7.0,6.0,1,Stamford,Connecticut,US
+416,UHS,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",35,3.0,22.0,10.0,3,King of Prussia,Pennsylvania,US
+417,UNM,Financials,Life & Health Insurance,"Chattanooga, Tennessee",22,3.0,7.0,12.0,1,Chattanooga,Tennessee,US
+418,VLO,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",28,16.0,7.0,5.0,3,San Antonio,Texas,US
+419,VAR,Health Care,Health Care Equipment,"Palo Alto, California",27,4.0,13.0,10.0,1,Palo Alto,California,US
+420,VTR,Real Estate,Health Care REITs,"Chicago, Illinois",12,3.0,4.0,5.0,0,Chicago,Illinois,US
+421,VRSN,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",22,3.0,13.0,6.0,0,Dulles,Virginia,US
+422,VRSK,Industrials,Research & Consulting Services,"Jersey City, New Jersey",21,0.0,15.0,6.0,1,Jersey City,New Jersey,US
+423,VZ,Communication Services,Integrated Telecommunication Services,"New York, New York",18,2.0,10.0,6.0,3,New York,New York,US
+424,VRTX,Health Care,Biotechnology,"Cambridge, Massachusetts",25,0.0,17.0,7.0,2,Cambridge,Massachusetts,US
+425,VFC,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",11,1.0,6.0,5.0,2,Denver,Colorado,US
+426,V,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",17,0.0,10.0,7.0,3,San Francisco,California,US
+427,VNO,Real Estate,Office REITs,"New York, New York",14,2.0,5.0,6.0,1,New York,New York,US
+428,VMC,Materials,Construction Materials,"Birmingham, Alabama",29,15.0,5.0,9.0,2,Birmingham,Alabama,US
+429,WRB,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",24,2.0,8.0,14.0,1,Greenwich,Connecticut,US
+430,WAB,Industrials,Construction Machinery & Heavy Trucks,"Wilmerding, Pennsylvania",33,10.0,14.0,8.0,1,Wilmerding,Pennsylvania,US
+431,WMT,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",28,3.0,17.0,7.0,4,Bentonville,Arkansas,US
+432,WBA,Consumer Staples,Drug Retail,"Deerfield, Illinois",17,2.0,11.0,5.0,3,Deerfield,Illinois,US
+433,DIS,Communication Services,Movies & Entertainment,"Burbank, California",16,0.0,8.0,8.0,2,Burbank,California,US
+434,WM,Industrials,Environmental & Facilities Services,"Houston, Texas",15,8.0,4.0,4.0,2,Houston,Texas,US
+435,WAT,Health Care,Health Care Distributors,"Milford, Massachusetts",18,1.0,11.0,6.0,0,Milford,Massachusetts,US
+436,WEC,Utilities,Electric Utilities,"Milwaukee, Wisconsin",32,18.0,9.0,5.0,1,Milwaukee,Wisconsin,US
+437,WFC,Financials,Diversified Banks,"San Francisco, California",31,1.0,15.0,15.0,5,San Francisco,California,US
+438,WELL,Real Estate,Health Care REITs,"Toledo, Ohio",12,4.0,3.0,5.0,1,Toledo,Ohio,US
+439,WDC,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",12,2.0,4.0,6.0,1,San Jose,California,US
+440,WU,Information Technology,Data Processing & Outsourced Services,"Englewood, Colorado",16,0.0,10.0,7.0,3,Englewood,Colorado,US
+441,WY,Real Estate,Specialized REITs,"Federal Way, Washington",17,9.0,3.0,4.0,3,Federal Way,Washington,US
+442,WHR,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",18,7.0,7.0,5.0,2,Benton Harbor,Michigan,US
+443,WMB,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",21,9.0,9.0,3.0,2,Tulsa,Oklahoma,US
+444,WLTW,Financials,Insurance Brokers,"London, United Kingdom",21,0.0,10.0,10.0,2,London,United Kingdom,UK
+445,WYNN,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",27,4.0,12.0,12.0,3,Paradise,Nevada,US
+446,XEL,Utilities,Multi-Utilities,"Minneapolis, Minnesota",29,16.0,9.0,4.0,1,Minneapolis,Minnesota,US
+447,XLNX,Information Technology,Semiconductors,"San Jose, California",23,9.0,6.0,8.0,0,San Jose,California,US
+448,XYL,Industrials,Industrial Machinery,"White Plains, New York",16,4.0,8.0,5.0,2,White Plains,New York,US
+449,YUM,Consumer Discretionary,Restaurants,"Louisville, Kentucky",21,4.0,13.0,4.0,3,Louisville,Kentucky,US
+450,ZBH,Health Care,Health Care Equipment,"Warsaw, Indiana",34,5.0,19.0,10.0,2,Warsaw,Indiana,US
+451,ZTS,Health Care,Pharmaceuticals,"Parsippany, New Jersey",24,2.0,10.0,11.0,1,Parsippany,New Jersey,US
