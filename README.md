@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 import ipywidgets as widgets
 from ipywidgets import interact
 ```
-### Motication
+### Motivation
 I am interested in obtaining online ESG data in order to form a top-down overview of how different sectors and countries are performing. 
 1. How are total ESG scores constructed?
 2. Which sectors and industries are among the best and worst performers in terms of ESG risks?
