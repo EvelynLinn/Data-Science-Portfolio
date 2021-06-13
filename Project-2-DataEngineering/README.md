@@ -4,6 +4,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 #### For Machine Learning pipeline# General libraries
+```
 import re
 import numpy as np
 import pandas as pd
@@ -25,7 +26,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer, TfidfVectorizer
 from sklearn.model_selection import GridSearchCV
 import pickle
-
+```
 ### Files Explained
 The files for this project are structured as follows within the folder Disaster-pipelines:
 In the data processing step:
