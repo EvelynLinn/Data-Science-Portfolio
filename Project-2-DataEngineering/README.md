@@ -60,5 +60,9 @@ The files for this project are structured as follows within the folder Disaster-
 
 3. Go to http://0.0.0.0:3001/
 
+### Imbalanced Data
+It can be seen that the count for different categories are imbalanced, this will normally require us to look carefully at any sources of bias during data collections are accounted for.
+
 
 ### Web App Interface
+(screenshots of web app)
