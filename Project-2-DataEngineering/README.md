@@ -29,17 +29,17 @@ import pickle
 ```
 ### Files Explained
 The files for this project are structured as follows within the folder Disaster-pipelines:
-In the data processing step:
+##### In the data processing step
 - ETL Pipeline Preparation.ipynb
 - process_data.py
 - messages.csv
 - categories.csv
 - etl_pipeline.db
-In the machine learning step:
+##### In the machine learning step:
 - ML Pipeline Preparation.ipynb
 - train_classifier.py
 - classifier.pkl
-In the web app step:
+##### In the web app step:
 - run.py
 - master.html
 - go.html
@@ -48,11 +48,14 @@ In the web app step:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
+
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
     - To run ML pipeline that trains classifier and saves
+
         `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 
 2. Run the following command in the app's directory to run your web app.
+
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
