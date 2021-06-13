@@ -27,7 +27,7 @@ from sklearn.model_selection import GridSearchCV
 import pickle
 
 ### Files Explained
-The files for this project are structured as follows:
+The files for this project are structured as follows within the folder Disaster-pipelines:
 In the data processing step:
 - ETL Pipeline Preparation.ipynb
 - process_data.py
