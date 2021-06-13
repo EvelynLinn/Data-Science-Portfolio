@@ -23,11 +23,15 @@ from sklearn.model_selection import GridSearchCV
 
 
 def load_data(database_filepath):
-    engine = create_engine('sqlite:///etl_pipeline.db')
+    engine = create_engine('sqlite:///'+database_filepath)
     df = pd.read_sql_table('etl_pipeline', con=engine)
     # Cleaning data
     df = df[df.related != 2]
-    return df
+    X = df.message.values
+    Y = df[df.columns[4:]]
+    category_names = Y.columns.values
+    return X, Y, category_names
+
 
 
 def tokenize(text):
@@ -37,6 +41,7 @@ def tokenize(text):
     After maps and lemmatizes different versions of same words to their root forms,
     the function finally returns the clean tokens.
     '''
+    url_regex = 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
     detected_urls = re.findall(url_regex, text)
     text = text.lower()
     for url in detected_urls:
@@ -51,19 +56,19 @@ def tokenize(text):
     for tok in words:
         clean_tok = lemmatizer.lemmatize(tok).lower().strip()
         clean_tokens.append(clean_tok)
-
     return clean_tokens
 
 
 def build_model():
-    pipeline = Pipeline([
+    model = Pipeline([
     ('vect', CountVectorizer(tokenizer=tokenize, ngram_range=(1,3))),
     ('tfidf', TfidfTransformer(norm='l1')),
     ('clf', MultiOutputClassifier(RandomForestClassifier()))
     ])
+    return model
 
 def evaluate_model(model, X_test, Y_test, categories):
-    model.fit(X_train, Y_train)
+    #model.fit(X_train, Y_train)
     Y_pred = model.predict(X_test)
     for i, c in enumerate(categories):
         print(c)
@@ -72,7 +77,7 @@ def evaluate_model(model, X_test, Y_test, categories):
 
 def save_model(model, model_filepath):
     final_model = 'finalized_model.sav'
-    pickle.dump(pipeline, open(final_model, 'wb'))
+    pickle.dump(model, open(final_model, 'wb'))
 
 
 def main():
