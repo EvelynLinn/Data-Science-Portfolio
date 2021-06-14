@@ -65,4 +65,5 @@ It can be seen that the count for different categories are imbalanced, this will
 
 
 ### Web App Interface
-(screenshots of web app)
+![plot](./Data-Science-Portfolio/Data/web_app_1.png)
+![plot](./Data-Science-Portfolio/Data/web_app_2.png)
