@@ -10,8 +10,17 @@ from flask import render_template, request, jsonify
 from plotly.graph_objs import Bar
 import joblib
 from sqlalchemy import create_engine
+from sklearn.base import BaseEstimator, TransformerMixin
+#from train_classifier import DenseTransformer
 
+class DenseTransformer(TransformerMixin):
 
+    def fit(self, X, y=None, **fit_params):
+        return self
+
+    def transform(self, X, y=None, **fit_params):
+        return X.todense()
+        
 app = Flask(__name__)
 
 def tokenize(text):
@@ -103,7 +112,7 @@ def index():
             go.Bar(name='Aid Related', x=genres, y=aid_counts),
             go.Bar(name='Direct Report', x=genres, y=direct_counts)
         ])
-    
+
     ]
     # encode plotly graphs in JSON
     ids = ["graph-{}".format(i) for i, _ in enumerate(graphs)]

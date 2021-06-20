@@ -20,6 +20,7 @@ from sklearn.pipeline import Pipeline, FeatureUnion
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer, TfidfVectorizer
 from sklearn.model_selection import GridSearchCV
+from sklearn.naive_bayes import GaussianNB
 
 
 def load_data(database_filepath):
@@ -59,11 +60,21 @@ def tokenize(text):
     return clean_tokens
 
 
+class DenseTransformer(TransformerMixin):
+
+    def fit(self, X, y=None, **fit_params):
+        return self
+
+    def transform(self, X, y=None, **fit_params):
+        return X.todense()
+
+
 def build_model():
     model = Pipeline([
-    ('vect', CountVectorizer(tokenizer=tokenize, ngram_range=(1,3))),
+    ('vect', CountVectorizer(tokenizer=tokenize)),
     ('tfidf', TfidfTransformer(norm='l1')),
-    ('clf', MultiOutputClassifier(RandomForestClassifier()))
+    ('to_dense', DenseTransformer()),
+    ('clf', MultiOutputClassifier(GaussianNB()))
     ])
     return model
 
