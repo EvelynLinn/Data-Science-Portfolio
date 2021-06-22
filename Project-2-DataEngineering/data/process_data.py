@@ -19,23 +19,27 @@ def clean_data(df):
     for i in range(0, len(row)):
         category_colnames.append(row[i][:-2])
     categories.columns = category_colnames
+
     # Convert category values to just numbers 0 or 1
     for column in categories:
-    # Set each value to be the last character of the string
+        # Set each value to be the last character of the string
         for i in range(0, categories.shape[0]):
             categories[column][i] = categories[column][i].split('-')[-1]
-    # Convert column from string to numeric
-    categories[column] = categories[column].astype(int)
+            # Convert column from string to numeric
+        categories[column] = categories[column].astype(int)
+
     # Replace categories column in df with new category columns
     df.drop(columns=['categories'], axis=1, inplace=True)
     df = pd.concat([df, categories], axis=1)
+    # Clean nonbinary data
+    df = df[df.related != 2]
     # Remove duplicates
     df = df.drop_duplicates()
     return df
 
 def save_data(df, database_filename):
     engine = create_engine('sqlite:///'+database_filename)
-    df.to_sql(database_filename, engine, index=False)
+    df.to_sql('etl_pipeline', engine, index=False)
 
 
 def main():

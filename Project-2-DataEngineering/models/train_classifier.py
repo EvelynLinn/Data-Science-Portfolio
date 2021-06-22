@@ -26,22 +26,27 @@ from sklearn.naive_bayes import GaussianNB
 def load_data(database_filepath):
     engine = create_engine('sqlite:///'+database_filepath)
     df = pd.read_sql_table('etl_pipeline', con=engine)
-    # Cleaning data
-    df = df[df.related != 2]
     X = df.message.values
-    Y = df[df.columns[4:]]
-    category_names = Y.columns.values
+    Y = np.asarray(df[df.columns[4:]])
+    category_names = df[df.columns[4:]].columns.values
     return X, Y, category_names
 
 
-
 def tokenize(text):
-    '''
-    This function first normalizes the plain texts, detects URLs in the messages, replace those URLs with a place holder;
-    It further tokenizes words and removes stop words;
-    After maps and lemmatizes different versions of same words to their root forms,
-    the function finally returns the clean tokens.
-    '''
+    """
+    This function processes text data and returns tokenized words.
+
+    Parameters:
+    str: text
+
+    It normalizes plain texts, detects URLs in the messages and replaces those URLs with a place holder.
+    It further tokenizes words and removes stop words.
+    After maps and lemmatizes different versions of same words to their root forms.
+    The function finally returns the clean tokens.
+
+    Returns:
+    str: tokenized words that may contain URL placeholders.
+    """
     url_regex = 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
     detected_urls = re.findall(url_regex, text)
     text = text.lower()
@@ -78,12 +83,12 @@ def build_model():
     ])
     return model
 
+
 def evaluate_model(model, X_test, Y_test, categories):
-    #model.fit(X_train, Y_train)
     Y_pred = model.predict(X_test)
     for i, c in enumerate(categories):
         print(c)
-        print(classification_report(Y_test.iloc[:,i] , Y_pred[:,i]))
+        print(classification_report(Y_test[:,i] , Y_pred[:,i]))
 
 
 def save_model(model, model_filepath):
@@ -101,14 +106,25 @@ def main():
         print('Building model...')
         model = build_model()
 
+
+        # Grid search
+        parameters = {
+        #'vect__ngram_range':[(1,1),(1,2),(1,3)],
+        'tfidf__norm':['l1', 'l2']
+        }
+        model = GridSearchCV(model, param_grid=parameters, n_jobs=1, verbose=3)
+
+
         print('Training model...')
         model.fit(X_train, Y_train)
+        print("\nBest Parameters:", model.best_params_)
+        y_pred = model.predict(X_test)
 
         print('Evaluating model...')
         evaluate_model(model, X_test, Y_test, category_names)
 
         print('Saving model...\n    MODEL: {}'.format(model_filepath))
-        save_model(model, model_filepath)
+        save_model(model.best_estimator_, model_filepath)
 
         print('Trained model saved!')
 

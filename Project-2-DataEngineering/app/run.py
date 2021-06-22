@@ -20,7 +20,7 @@ class DenseTransformer(TransformerMixin):
 
     def transform(self, X, y=None, **fit_params):
         return X.todense()
-        
+
 app = Flask(__name__)
 
 def tokenize(text):
@@ -35,12 +35,12 @@ def tokenize(text):
     return clean_tokens
 
 # load data
-engine = create_engine('sqlite:///../etl_pipeline.db')
-#engine = create_engine('sqlite:///../data/etl_pipeline.db')
+#engine = create_engine('sqlite:///../DisasterResponse.db')
+engine = create_engine('sqlite:///../data/DisasterResponse.db')
 df = pd.read_sql_table('etl_pipeline', engine)
 
 # load model
-model = joblib.load("../classifier.pkl")
+model = joblib.load("../models/classifier.pkl")
 #model = joblib.load("../models/classifier.pkl") #original
 
 
